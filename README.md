@@ -1,0 +1,2 @@
+### Spotify Recommender System
+Generating Spotify playlists from scratch can be time consuming and difficult. I often end up scrolling through my thousands of liked songs and cobbling together a mishmash of rock, alt, and folk that is stale and not particularly cohesive. This is my attempt to create playlists algorithmically based on my listening history, using PyTorch.
